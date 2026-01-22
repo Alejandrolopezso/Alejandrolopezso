@@ -44,7 +44,6 @@
 
 <br/>
 <hr>
-<br/>
 
 <h3 align="center">🧩 Tech Stack</h3>
 
@@ -68,6 +67,20 @@
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/rstudioide/75AADB" height="40" alt="rstudio logo" />
+</div>
+
+<br/>
+<hr>
+
+## 💼 Professional Networks
+<br/>
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
 </div>
 
 
