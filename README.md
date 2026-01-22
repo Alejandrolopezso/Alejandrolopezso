@@ -16,6 +16,7 @@
 <<hr>
 <h3 align="center">👋 Hi, I’m Alejandro | Economist · Data Analytics & BI</h3>
 
+
 <ul>
   <li>📊 Economist focused on <strong>data analytics applied to public policy, security, and territorial analysis</strong>.</li>
   <li>🗂️ Experience working with <strong>large-scale datasets (+12M records)</strong> at national and regional levels.</li>
@@ -25,7 +26,9 @@
   <li>🎯 Interests: <strong>data analysis</strong>, <strong>data-driven decision-making</strong>, and <strong>public sector analytics</strong>.</li>
 </ul>
 
+
 <h3 align="center">🧠 Analytical Background & Interests</h3>
+
 
 <ul>
   <li>📐 <strong>Mathematical Economics</strong></li>
@@ -36,9 +39,11 @@
   <li>🗺️ <strong>Quantitative analysis</strong> for territorial management</li>
 </ul>
 
-## 🧩 Tech Stack
 
 <div align="center">
+## 🧩 Tech Stack
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
