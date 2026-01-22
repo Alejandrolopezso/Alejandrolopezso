@@ -12,7 +12,9 @@
 
 <hr>
 
-<h3 align="center">👋 Hi, I’m Alejandro | Economist · Data Analytics & BI</h3>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I’m Alejandro | Economist · Data Analytics & BI </h1>
+
 
 <br/>
 
