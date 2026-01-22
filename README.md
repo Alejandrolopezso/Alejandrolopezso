@@ -6,8 +6,8 @@
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
   <span>
-    <h4 align="center">"<em>Sitzfleisch</em>"
-      <span align="center">J. Robert Oppenheimer</span>
+    <h4 align="center">"<em> Sitzfleisch </em>"
+      <span align="center"> J. Robert Oppenheimer </span>
     </h4>
   </span>
 </span>
@@ -41,7 +41,8 @@
 
 
 
-##                                                 🧩 Tech Stack
+
+<h3 align="center">🧩 Tech Stack</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
