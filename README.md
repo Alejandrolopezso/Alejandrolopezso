@@ -31,7 +31,7 @@
 
 <h3 align="center">🧠 Analytical Background & Interests</h3>
 
-<br/>
+
 
 <ul>
   <li>📐 <strong>Mathematical Economics</strong></li>
