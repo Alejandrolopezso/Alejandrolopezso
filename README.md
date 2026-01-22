@@ -3,19 +3,18 @@
 </p>
 
 <hr>
+
 <!-- MAIN PHRASE SECTION -->
-<span align="center">
-  <span>
-    <h4 align="center">"<em> Sitzfleisch </em>"
-      <span align="center"> J. Robert Oppenheimer </span>
-    </h4>
-  </span>
-</span>
+<h4 align="center">
+  "<em>Sitzfleisch</em>" <br/>
+  <span>J. Robert Oppenheimer</span>
+</h4>
 
+<hr>
 
-<<hr>
 <h3 align="center">👋 Hi, I’m Alejandro | Economist · Data Analytics & BI</h3>
 
+<br/>
 
 <ul>
   <li>📊 Economist focused on <strong>data analytics applied to public policy, security, and territorial analysis</strong>.</li>
@@ -26,9 +25,13 @@
   <li>🎯 Interests: <strong>data analysis</strong>, <strong>data-driven decision-making</strong>, and <strong>public sector analytics</strong>.</li>
 </ul>
 
+<br/>
+<hr>
+<br/>
 
 <h3 align="center">🧠 Analytical Background & Interests</h3>
 
+<br/>
 
 <ul>
   <li>📐 <strong>Mathematical Economics</strong></li>
@@ -39,10 +42,13 @@
   <li>🗺️ <strong>Quantitative analysis</strong> for territorial management</li>
 </ul>
 
-
-
+<br/>
+<hr>
+<br/>
 
 <h3 align="center">🧩 Tech Stack</h3>
+
+<br/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
